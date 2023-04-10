@@ -11,7 +11,7 @@ from ast import literal_eval
 from osgeo import gdal
 from osgeo import osr
 
-key = 'AIzaSyD854_OK7Ak3_5plz1TkMnWK--AMEBUt9w'
+key = ''
 
 
 def street_view_metadata_retrival(lat, long):
